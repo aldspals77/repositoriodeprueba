@@ -12,3 +12,4 @@ componentes
 -arduino
 -driver motor
 -led
+-bateria
